@@ -15,3 +15,7 @@
     while(i<=100);
     return 0;
     }
+
+
+# hasil program
+![img](https://github.com/ekayuliaa11/program-tabel-fotokopian/blob/master/hasil%20tabel%20fotokopian.png?raw=true)
